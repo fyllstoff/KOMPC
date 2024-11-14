@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782388539168",
+    "firebase_url": "https://kompc-f1357-default-rtdb.firebaseio.com",
+    "project_id": "kompc-f1357",
+    "storage_bucket": "kompc-f1357.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782388539168:android:164dcd80a5a0d28aa2b145",
+        "android_client_info": {
+          "package_name": "com.example.kompc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD87va7FocE6EMso4j-D4fxApnmBMw45F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
